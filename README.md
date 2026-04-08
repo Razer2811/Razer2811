@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Razer2811/Razer2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Minh Khanh, a third-year Software Engineering student in Vietnam.
 
-Here are some ideas to get you started:
+I enjoy turning my ideas into reality through programming and building anything I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a great idea pops into my head, I'll most likely try to program it and make it a reality.
+
+My main technologies currently include Java, JavaScript, Bootstrap, and the SpringBoot framework. My favorite tools for learning and programming are Vscode, Notion, and IntelliJ.
+
+I have many projects I've worked on from my courses and self-discovery, but my favorite project so far is MoVieAction because it was the first project website where I learned about the MVC model in university.
+
+I'm constantly learning, programming, and contributing code to improve my skills as a future software engineer.
+
+If you'd like to collaborate or just say hello, you can contact me at tranleminhkhanh5734@gmail.com
+
+**Interesting Facts:**
+
+* I enjoy good food
+* Naruto is my favorite anime/movie
+* **Hobbies:** programming, playing games with friends
