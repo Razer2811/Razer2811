@@ -19,3 +19,13 @@ If you'd like to collaborate or just say hello, you can contact me at tranleminh
 * I enjoy good food
 * Naruto is my favorite anime/movie
 * **Hobbies:** programming, playing games with friends
+***
+📚 Currently Learning and Improving
+I am focused on strengthening my core programming skills and building a solid foundation in BackEnd development:
+
+SpringBoot: Mastering data structures and algorithms through learning and working on projects using the SpringBoot Framework
+Practicing Clean Code: Learning how to write readable, maintainable, and efficient code.
+Modern Web Frameworks: Gaining in-depth knowledge of React and its ecosystem.
+Problem Solving: Hone my logic by solving real-world coding challenges.
+Striving to Adhere to the 13 Restful API Rules
+Continuing to learn BackEnd after completing SpringBoot
